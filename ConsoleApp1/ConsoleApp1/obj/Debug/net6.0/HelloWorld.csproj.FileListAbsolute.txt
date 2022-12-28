@@ -1,0 +1,15 @@
+D:\c-sharp-workspace\.netpractice\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\HelloWorld.exe
+D:\c-sharp-workspace\.netpractice\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\HelloWorld.deps.json
+D:\c-sharp-workspace\.netpractice\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\c-sharp-workspace\.netpractice\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\HelloWorld.dll
+D:\c-sharp-workspace\.netpractice\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\HelloWorld.pdb
+D:\c-sharp-workspace\.netpractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+D:\c-sharp-workspace\.netpractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\c-sharp-workspace\.netpractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\c-sharp-workspace\.netpractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\c-sharp-workspace\.netpractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\c-sharp-workspace\.netpractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\HelloWorld.dll
+D:\c-sharp-workspace\.netpractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\HelloWorld.dll
+D:\c-sharp-workspace\.netpractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\HelloWorld.pdb
+D:\c-sharp-workspace\.netpractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+D:\c-sharp-workspace\.netpractice\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\HelloWorld.dll
