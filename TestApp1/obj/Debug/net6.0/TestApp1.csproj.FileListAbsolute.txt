@@ -1,0 +1,15 @@
+E:\local repository\.netpractice\TestApp1\bin\Debug\net6.0\TestApp1.exe
+E:\local repository\.netpractice\TestApp1\bin\Debug\net6.0\TestApp1.deps.json
+E:\local repository\.netpractice\TestApp1\bin\Debug\net6.0\TestApp1.runtimeconfig.json
+E:\local repository\.netpractice\TestApp1\bin\Debug\net6.0\TestApp1.dll
+E:\local repository\.netpractice\TestApp1\bin\Debug\net6.0\TestApp1.pdb
+E:\local repository\.netpractice\TestApp1\obj\Debug\net6.0\TestApp1.csproj.AssemblyReference.cache
+E:\local repository\.netpractice\TestApp1\obj\Debug\net6.0\TestApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\local repository\.netpractice\TestApp1\obj\Debug\net6.0\TestApp1.AssemblyInfoInputs.cache
+E:\local repository\.netpractice\TestApp1\obj\Debug\net6.0\TestApp1.AssemblyInfo.cs
+E:\local repository\.netpractice\TestApp1\obj\Debug\net6.0\TestApp1.csproj.CoreCompileInputs.cache
+E:\local repository\.netpractice\TestApp1\obj\Debug\net6.0\TestApp1.dll
+E:\local repository\.netpractice\TestApp1\obj\Debug\net6.0\refint\TestApp1.dll
+E:\local repository\.netpractice\TestApp1\obj\Debug\net6.0\TestApp1.pdb
+E:\local repository\.netpractice\TestApp1\obj\Debug\net6.0\TestApp1.genruntimeconfig.cache
+E:\local repository\.netpractice\TestApp1\obj\Debug\net6.0\ref\TestApp1.dll
