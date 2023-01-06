@@ -1,0 +1,12 @@
+E:\local repository\.netpractice\ecommerce\Billing\bin\Debug\net7.0\Billing.deps.json
+E:\local repository\.netpractice\ecommerce\Billing\bin\Debug\net7.0\Billing.dll
+E:\local repository\.netpractice\ecommerce\Billing\bin\Debug\net7.0\Billing.pdb
+E:\local repository\.netpractice\ecommerce\Billing\obj\Debug\net7.0\Billing.csproj.AssemblyReference.cache
+E:\local repository\.netpractice\ecommerce\Billing\obj\Debug\net7.0\Billing.GeneratedMSBuildEditorConfig.editorconfig
+E:\local repository\.netpractice\ecommerce\Billing\obj\Debug\net7.0\Billing.AssemblyInfoInputs.cache
+E:\local repository\.netpractice\ecommerce\Billing\obj\Debug\net7.0\Billing.AssemblyInfo.cs
+E:\local repository\.netpractice\ecommerce\Billing\obj\Debug\net7.0\Billing.csproj.CoreCompileInputs.cache
+E:\local repository\.netpractice\ecommerce\Billing\obj\Debug\net7.0\Billing.dll
+E:\local repository\.netpractice\ecommerce\Billing\obj\Debug\net7.0\refint\Billing.dll
+E:\local repository\.netpractice\ecommerce\Billing\obj\Debug\net7.0\Billing.pdb
+E:\local repository\.netpractice\ecommerce\Billing\obj\Debug\net7.0\ref\Billing.dll

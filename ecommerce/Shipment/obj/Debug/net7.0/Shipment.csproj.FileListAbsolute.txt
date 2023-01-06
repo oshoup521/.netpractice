@@ -1,0 +1,12 @@
+E:\local repository\.netpractice\ecommerce\Shipment\bin\Debug\net7.0\Shipment.deps.json
+E:\local repository\.netpractice\ecommerce\Shipment\bin\Debug\net7.0\Shipment.dll
+E:\local repository\.netpractice\ecommerce\Shipment\bin\Debug\net7.0\Shipment.pdb
+E:\local repository\.netpractice\ecommerce\Shipment\obj\Debug\net7.0\Shipment.csproj.AssemblyReference.cache
+E:\local repository\.netpractice\ecommerce\Shipment\obj\Debug\net7.0\Shipment.GeneratedMSBuildEditorConfig.editorconfig
+E:\local repository\.netpractice\ecommerce\Shipment\obj\Debug\net7.0\Shipment.AssemblyInfoInputs.cache
+E:\local repository\.netpractice\ecommerce\Shipment\obj\Debug\net7.0\Shipment.AssemblyInfo.cs
+E:\local repository\.netpractice\ecommerce\Shipment\obj\Debug\net7.0\Shipment.csproj.CoreCompileInputs.cache
+E:\local repository\.netpractice\ecommerce\Shipment\obj\Debug\net7.0\Shipment.dll
+E:\local repository\.netpractice\ecommerce\Shipment\obj\Debug\net7.0\refint\Shipment.dll
+E:\local repository\.netpractice\ecommerce\Shipment\obj\Debug\net7.0\Shipment.pdb
+E:\local repository\.netpractice\ecommerce\Shipment\obj\Debug\net7.0\ref\Shipment.dll

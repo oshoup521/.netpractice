@@ -1,0 +1,12 @@
+E:\local repository\.netpractice\ecommerce\CRM\bin\Debug\net7.0\CRM.deps.json
+E:\local repository\.netpractice\ecommerce\CRM\bin\Debug\net7.0\CRM.dll
+E:\local repository\.netpractice\ecommerce\CRM\bin\Debug\net7.0\CRM.pdb
+E:\local repository\.netpractice\ecommerce\CRM\obj\Debug\net7.0\CRM.csproj.AssemblyReference.cache
+E:\local repository\.netpractice\ecommerce\CRM\obj\Debug\net7.0\CRM.GeneratedMSBuildEditorConfig.editorconfig
+E:\local repository\.netpractice\ecommerce\CRM\obj\Debug\net7.0\CRM.AssemblyInfoInputs.cache
+E:\local repository\.netpractice\ecommerce\CRM\obj\Debug\net7.0\CRM.AssemblyInfo.cs
+E:\local repository\.netpractice\ecommerce\CRM\obj\Debug\net7.0\CRM.csproj.CoreCompileInputs.cache
+E:\local repository\.netpractice\ecommerce\CRM\obj\Debug\net7.0\CRM.dll
+E:\local repository\.netpractice\ecommerce\CRM\obj\Debug\net7.0\refint\CRM.dll
+E:\local repository\.netpractice\ecommerce\CRM\obj\Debug\net7.0\CRM.pdb
+E:\local repository\.netpractice\ecommerce\CRM\obj\Debug\net7.0\ref\CRM.dll
