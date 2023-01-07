@@ -1,11 +1,14 @@
 namespace formUser;
 
+[Serializable]
 class User{
     public string Name{get;set;}
     public string Username{get;set;}
     public string Email{get;set;}
     public  string Pwd{get;set;}
     public string Confirmpwd{get;set;}
+
+    public User(){}
 
     public User(string name,string username,string email,string pwd,string confirmpwd){
         this.Name=name;

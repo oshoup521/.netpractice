@@ -29,3 +29,4 @@ E:\local repository\.netpractice\TheFarmersMart\obj\Debug\net7.0\refint\TheFarme
 E:\local repository\.netpractice\TheFarmersMart\obj\Debug\net7.0\TheFarmersMart.pdb
 E:\local repository\.netpractice\TheFarmersMart\obj\Debug\net7.0\TheFarmersMart.genruntimeconfig.cache
 E:\local repository\.netpractice\TheFarmersMart\obj\Debug\net7.0\ref\TheFarmersMart.dll
+E:\local repository\.netpractice\TheFarmersMart\bin\Debug\net7.0\Models\storage.json

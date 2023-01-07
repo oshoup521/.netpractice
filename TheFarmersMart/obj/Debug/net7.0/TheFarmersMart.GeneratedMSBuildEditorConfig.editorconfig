@@ -9,49 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TheFarmersMart
 build_property.RootNamespace = TheFarmersMart
-build_property.ProjectDir = E:\local repository\.netpractice\TheFarmersMart\
+build_property.ProjectDir = e:\local repository\.netpractice\TheFarmersMart\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\local repository\.netpractice\TheFarmersMart
+build_property.MSBuildProjectDirectory = e:\local repository\.netpractice\TheFarmersMart
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/local repository/.netpractice/TheFarmersMart/Views/Home/About.cshtml]
+[e:/local repository/.netpractice/TheFarmersMart/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/local repository/.netpractice/TheFarmersMart/Views/Auth/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxTaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/local repository/.netpractice/TheFarmersMart/Views/Auth/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxXZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[e:/local repository/.netpractice/TheFarmersMart/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/local repository/.netpractice/TheFarmersMart/Views/Home/Index.cshtml]
+[e:/local repository/.netpractice/TheFarmersMart/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/local repository/.netpractice/TheFarmersMart/Views/Home/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/local repository/.netpractice/TheFarmersMart/Views/Home/Privacy.cshtml]
+[e:/local repository/.netpractice/TheFarmersMart/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/local repository/.netpractice/TheFarmersMart/Views/Home/Signup.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWdudXAuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[E:/local repository/.netpractice/TheFarmersMart/Views/Shared/Error.cshtml]
+[e:/local repository/.netpractice/TheFarmersMart/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/local repository/.netpractice/TheFarmersMart/Views/Shared/_ValidationScriptsPartial.cshtml]
+[e:/local repository/.netpractice/TheFarmersMart/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/local repository/.netpractice/TheFarmersMart/Views/_ViewImports.cshtml]
+[e:/local repository/.netpractice/TheFarmersMart/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/local repository/.netpractice/TheFarmersMart/Views/_ViewStart.cshtml]
+[e:/local repository/.netpractice/TheFarmersMart/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/local repository/.netpractice/TheFarmersMart/Views/Shared/_Layout.cshtml]
+[e:/local repository/.netpractice/TheFarmersMart/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-udcqg1wjk7
