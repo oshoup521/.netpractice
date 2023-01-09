@@ -1,0 +1,17 @@
+D:\local repository\.netpractice\ecommerce\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\local repository\.netpractice\ecommerce\BLL\bin\Debug\net6.0\BLL.dll
+D:\local repository\.netpractice\ecommerce\BLL\bin\Debug\net6.0\BLL.pdb
+D:\local repository\.netpractice\ecommerce\BLL\bin\Debug\net6.0\BOL.dll
+D:\local repository\.netpractice\ecommerce\BLL\bin\Debug\net6.0\DAL.dll
+D:\local repository\.netpractice\ecommerce\BLL\bin\Debug\net6.0\BOL.pdb
+D:\local repository\.netpractice\ecommerce\BLL\bin\Debug\net6.0\DAL.pdb
+D:\local repository\.netpractice\ecommerce\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\local repository\.netpractice\ecommerce\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\local repository\.netpractice\ecommerce\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\local repository\.netpractice\ecommerce\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\local repository\.netpractice\ecommerce\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\local repository\.netpractice\ecommerce\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\local repository\.netpractice\ecommerce\BLL\obj\Debug\net6.0\BLL.dll
+D:\local repository\.netpractice\ecommerce\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\local repository\.netpractice\ecommerce\BLL\obj\Debug\net6.0\BLL.pdb
+D:\local repository\.netpractice\ecommerce\BLL\obj\Debug\net6.0\ref\BLL.dll

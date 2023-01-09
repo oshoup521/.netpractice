@@ -1,0 +1,17 @@
+@using BOL;
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div>
+    <h1>Details</h1>
+    @{
+        List<Product> products = (List<Product>)ViewData["products"];
+        @foreach (Product p in products)
+        {
+            <ul>
+                <li>@p.Title</li>
+            </ul>
+        }
+    }
+</div>
